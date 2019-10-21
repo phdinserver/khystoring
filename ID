@@ -10,7 +10,7 @@
            <input id="ID" type="text">
       </P>
       <P>
-           <label for="password">비밀번호: <?label>
+           <label for="password">비밀번호: </label>
            <input id="password" type="text">
       </P>
 <body>
