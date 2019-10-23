@@ -13,5 +13,10 @@
            <label for="password">비밀번호: </label>
            <input id="password" type="text">
       </P>
+      <li class="save"><input type="checkbox" id="chk1"><label for="chk1">ID저장
+<ul> class="btm">
+<li>아이디를 잊으셨나요?<a herf="#a">아이디 찾기</a></li>
+<li>비밀번호를 잊으셨나요?<a herf="#a">비밀번호 찾기</a></li>
+</ul>
 <body>
 </html>
